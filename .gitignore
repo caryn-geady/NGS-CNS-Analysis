@@ -4,6 +4,5 @@
 *.egg-info
 
 # internal data
-/Data/raw
-/Data/proc
+/Data
 /Code/sorted_files
