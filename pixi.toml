@@ -3,7 +3,7 @@ authors = ["cgeady <caryn@geady.com>"]
 channels = ["conda-forge"]
 description = "Add a short description here"
 name = "NGS-CNS-Analysis"
-platforms = ["osx-64"]
+platforms = ["osx-64", "win-64"]
 version = "0.1.0"
 
 [tasks]
