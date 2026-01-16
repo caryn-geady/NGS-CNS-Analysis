@@ -1,0 +1,88 @@
+,USUBJID,AGE,HISTOL,IDH,MGMT,Extent of surgical resection,BECOG,EVENT,TIME
+0,NGS0480,71.0,GBM,IDHwt,Unmethylated (U),Biopsy,"3: Symptomatic, > 50% in bed",Dead,0.492772668
+1,NGS0535,58.0,GBM,IDHwt,Methylated (M),Biopsy,"1: Symptomatic, completely ambulatory",LTF,2.0367936925098555
+2,NGS0560,54.0,GBM,IDHwt,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,2.628120894
+3,NGS0481,46.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,3.645148926850635
+4,NGS0556,54.0,GBM,IDHwt,Methylated (M),Total,"1: Symptomatic, completely ambulatory",Alive,3.94218134
+5,NGS0484,48.0,GBM,IDHwt,Unmethylated (U),Biopsy,"1: Symptomatic, completely ambulatory",Dead,4.630694261936049
+6,NGS0489,62.0,GBM,IDHwt,Methylated (M),Biopsy,"1: Symptomatic, completely ambulatory",LTF,5.059132720105125
+7,NGS0562,75.0,GBM,IDHwt,Methylated (M),Total,"2: Symptomatic, < 50% in bed",Alive,5.191907577748577
+8,NGS0563,65.0,A/2,IDHwt,Methylated (M),Subtotal,"2: Symptomatic, < 50% in bed",Alive,5.323313622426632
+9,NGS0477,74.0,GBM,IDHwt,Unmethylated (U),Subtotal,"3: Symptomatic, > 50% in bed",LTF,6.470378887428822
+10,NGS0028,64.0,O/3,IDHmut,Methylated (M),Subtotal,"2: Symptomatic, < 50% in bed",Dead,6.5374507227332455
+11,NGS0499,54.0,GBM,IDHwt,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,6.965889180902321
+12,NGS0553,34.0,A/3,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,7.360107314936487
+13,NGS0287,56.0,GBM,IDHwt,Unknown,Subtotal,"1: Symptomatic, completely ambulatory",LTF,7.391590013140604
+14,NGS0546,26.0,A/3,IDHwt,Unmethylated (U),Biopsy,"1: Symptomatic, completely ambulatory",Alive,8.605727113447218
+15,NGS0543,54.0,GBM,IDHwt,Unmethylated (U),Total,"1: Symptomatic, completely ambulatory",Alive,8.704281647
+16,NGS0542,28.0,O/3,IDHmut,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Alive,9.329829172
+17,NGS0537,77.0,GBM,IDHwt,Methylated (M),Total,"1: Symptomatic, completely ambulatory",Alive,10.085413929040737
+18,NGS0548,49.0,A/3,IDHwt,Methylated (M),Total,"1: Symptomatic, completely ambulatory",Alive,10.51111476127902
+19,NGS0491,41.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,11.005256241787125
+20,NGS0536,43.0,GBM,IDHmut,Methylated (M),Total,"1: Symptomatic, completely ambulatory",Alive,11.103810775295663
+21,NGS0532,62.0,A/2,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Alive,12.18791064388962
+22,NGS0034,38.0,GBM,IDHwt,Methylated (M),Subtotal,"2: Symptomatic, < 50% in bed",Dead,14.028964082347787
+23,NGS0015,41.0,GBM,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Dead,14.323258869908017
+24,NGS0515,49.0,GBM,IDHwt,Methylated (M),Total,"1: Symptomatic, completely ambulatory",Alive,14.553219448094612
+25,NGS0038,44.0,GBM,IDHwt,Unknown,Biopsy,0: Asymptomatic,Alive,14.981657906263688
+26,NGS0529,52.0,GBM,IDHwt,Methylated (M),Total,"1: Symptomatic, completely ambulatory",Alive,15.24447
+27,NGS0531,34.0,GBM,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,15.507282084975907
+28,NGS0488,60.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,15.637319316688568
+29,NGS0356,43.0,A/2,IDHmut,Unknown,Subtotal,"1: Symptomatic, completely ambulatory",Alive,15.835797196671049
+30,NGS0275,59.0,A/2,IDHwt,Unmethylated (U),Subtotal,0: Asymptomatic,Dead,15.965834428383706
+31,NGS0503,45.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,16.52431011826544
+32,NGS0284,19.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,16.525678931230836
+33,NGS0351,20.0,A/2,IDHmut,Unknown,Subtotal,0: Asymptomatic,Alive,17.64126149802891
+34,NGS0357,37.0,O/3,IDHmut,Unknown,Subtotal,"1: Symptomatic, completely ambulatory",Alive,17.969776609724047
+35,NGS0495,43.0,AB,,Unknown,Total,"1: Symptomatic, completely ambulatory",Alive,18.595324134910207
+36,NGS0018,41.0,A/3,IDHwt,Unmethylated (U),Subtotal,0: Asymptomatic,Dead,19.613720981165137
+37,NGS0040,54.0,GBM,IDHwt,Methylated (M),Subtotal,0: Asymptomatic,Dead,20.03942181340342
+38,NGS0511,37.0,GBM,IDHwt,Methylated (M),Total,"1: Symptomatic, completely ambulatory",Alive,20.49934297
+39,NGS0510,41.0,GBM,IDHwt,Unmethylated (U),Total,"2: Symptomatic, < 50% in bed",Alive,21.35485107314937
+40,NGS0030,62.0,O/2,IDHmut,Unknown,Subtotal,"1: Symptomatic, completely ambulatory",Dead,22.536136662286467
+41,NGS0303,51.0,O/3,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",,22.668911519929917
+42,NGS0505,58.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Alive,23.09461235
+43,NGS0285,65.0,EPE/2,IDHwt,Unmethylated (U),Subtotal,"3: Symptomatic, > 50% in bed",Alive,23.193166885676742
+44,NGS0507,47.0,GBM,IDHwt,Methylated (M),Subtotal,"2: Symptomatic, < 50% in bed",Alive,23.455978975032853
+45,NGS0508,47.0,GBM,IDHwt,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Dead,23.55590232150679
+46,NGS0483,32.0,GBM,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,25.85277047744196
+47,NGS0485,69.0,A/2,IDHwt,Unmethylated (U),Biopsy,"1: Symptomatic, completely ambulatory",Alive,26.148434077967583
+48,NGS0273,56.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,27.101127901883487
+49,NGS0292,65.0,O/2,IDHmut,Unknown,Biopsy,"1: Symptomatic, completely ambulatory",Alive,27.232533946561546
+50,NGS0509,44.0,GBM,IDHwt,Unmethylated (U),Total,"1: Symptomatic, completely ambulatory",Dead,27.299605781865967
+51,NGS0046,54.0,GBM,IDHwt,Unmethylated (U),Subtotal,0: Asymptomatic,Alive,27.43101183
+52,NGS0032,19.0,A/3,IDHwt,Unmethylated (U),Subtotal,0: Asymptomatic,Alive,28.089410862899697
+53,NGS0291,39.0,O/3,IDHmut,Methylated (M),Subtotal,0: Asymptomatic,Alive,28.34948532632501
+54,NGS0277,43.0,GBM,IDHmut,Unknown,Subtotal,0: Asymptomatic,Alive,28.61366622864652
+55,NGS0289,53.0,A/3,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,29.63206307490145
+56,NGS0031,49.0,A/3,IDHwt,Unmethylated (U),Biopsy,"1: Symptomatic, completely ambulatory",Alive,29.69913491020587
+57,NGS0283,47.0,GBM,IDHwt,Unknown,Subtotal,0: Asymptomatic,Dead,30.684680245291283
+58,NGS0023,48.0,A/3,IDHwt,Unknown,Subtotal,"1: Symptomatic, completely ambulatory",Alive,30.783234778799823
+59,NGS0064,57.0,A/3,IDHwt,Unmethylated (U),Subtotal,0: Asymptomatic,Dead,32.13014673674989
+60,NGS0280,30.0,O/3,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,33.345652650021904
+61,NGS0282,33.0,A/3,IDHwt,Unmethylated (U),Subtotal,0: Asymptomatic,Alive,33.86990801576872
+62,NGS0517,42.0,GBM,IDHwt,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,70.86070959264126
+63,NGS0290,32.0,GBM,IDHmut,Unmethylated (U),Subtotal,"1: Symptomatic, completely ambulatory",Dead,72.60320849759088
+64,NGS0271,27.0,GBM,,Unknown,Subtotal,0: Asymptomatic,Dead,105.05913272010513
+65,NGS0524,50.0,O/3,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,138.83185501533072
+66,NGS0021,42.0,O/3,IDHmut,Methylated (M),Subtotal,0: Asymptomatic,Dead,210.4782632501095
+67,NGS0486,61.0,O/3,IDHmut,Methylated (M),Subtotal,0: Asymptomatic,Dead,211.17088261060007
+68,NGS0049,51.0,O/3,IDHmut,Methylated (M),Subtotal,Unknown,Dead,215.83442838370564
+69,NGS0500,44.0,GBM,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Alive,255.0262812089356
+70,NGS0501,53.0,GBM,IDHmut,Methylated (M),Subtotal,"1: Symptomatic, completely ambulatory",Dead,261.03810775295665
+71,NGS0043,56.0,GBM,,,,,,
+72,NGS0053,52.0,GBM,,,,,,
+73,NGS0073,36.0,GBM,IDHmut,Unknown,Total,,Dead,
+74,NGS0300,56.0,GBM,,,,,,
+75,NGS0364,30.0,GBM,,,,,,
+76,NGS0383,41.0,GBM,,,,,,
+77,NGS0392,46.0,A/2,,,,,,
+78,NGS0400,30.0,GBM,,,,,,
+79,NGS0409,47.0,O/3,,,,,,
+80,NGS0419,29.0,GBM,,,,,,
+81,NGS0423,33.0,A/3,,,,,,
+82,NGS0427,30.0,A/2,,,,,,
+83,NGS0430,31.0,A/2,,,,,,
+84,NGS0433,57.0,O/3,,,,,,
+85,NGS0520,61.0,A/2,,,,,,
+86,NGS0555,33.0,GBM,IDHwt,Unknown,Biopsy,"1: Symptomatic, completely ambulatory",,

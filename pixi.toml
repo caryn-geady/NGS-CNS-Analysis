@@ -1,0 +1,27 @@
+[project]
+authors = ["Caryn Geady <caryn@geady.com>"]
+channels = ["conda-forge"]
+name = "NGS-CNS-Analysis"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.3,<3.14"
+pandas = ">=2.2.3,<3"
+pip = ">=25.1.1,<26"
+ipykernel = ">=6.29.5,<7"
+openpyxl = ">=3.1.5,<4"
+scikit-learn = ">=1.6.1,<2"
+matplotlib = ">=3.10.3,<4"
+numpy = ">=2.2.6,<3"
+lifelines = ">=0.30.0,<0.31"
+simpleitk = ">=2.5.0,<3"
+nibabel = ">=5.3.2,<6"
+scikit-survival = ">=0.24.1,<0.25"
+jinja2 = ">=3.1.6,<4"
+qrcode = ">=8.2,<9"
+
+[pypi-dependencies]
+pyradiomics-bhklab = ">=3.1.4, <4"
